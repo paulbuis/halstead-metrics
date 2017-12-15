@@ -1,23 +1,24 @@
-# Métricas de Halstead [![Build Status](https://travis-ci.org/luisantonioig/halstead-metrics.svg?branch=master)](https://travis-ci.org/luisantonioig/halstead-metrics)
+# Halstead Metrics
 
-Herramienta para el cálculo de las Métricas de Halstead tomando en cuenta las siguientes reglas:
+English language fork of   github.com//luisantonioig/halstead-metrics
 
+Tool for the calculation of the Halstead Metrics taking into account the following rules:
+???
 
-## Instalación
+## Installation
 
-Para poder utilizar esta herramienta se deben seguir los siguientes pasos:
+In order to use this tool, the following steps must be followed:
 
-### 1. Instalar el compilador de GOLANG
-- Te puedes basar de [aqui](https://golang.org/doc/installs) para instalarlo.
-- No olvides configurar las variables de entorno GOPATH 
-- Para este proyecto se utilizó la version go1.2.1 de GOLANG
+### 1. Install the GOLANG compiler
+- You can base it [here](https://golang.org/doc/installs) to install it.
+- Do not forget to configure the GOPATH environment variables
+- GOLANG version go1.2.1 was used for this project
 
-### 2. También se necesita instalar Git
+### 2. You also need to install Git
 
 #### Ubuntu
-- [Aqui](https://golang.org/doc/installs) lo puedes descargar
-- Se utilizó la version 2.10.0 de Git
+- [Here](https://golang.org/doc/installs) Here you can download it
+- Git version 2.10.0 was used
 
 #### Windows
-- [Aqui](https://git-scm.com/download/win) lo puedes descargar
-
+- [Here](https://git-scm.com/download/win) you can download it
